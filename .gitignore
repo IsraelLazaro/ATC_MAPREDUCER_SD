@@ -1,0 +1,40 @@
+
+!*/
+!.gitkeep
+
+data/*.txt
+intermediate/*
+reducer_inputs/*
+outputs/*
+final_result.txt
+
+!*/README.md
+!*/.gitkeep
+
+# Configurações locais
+.env
+*.local
+
+# Arquivos do IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e diagnósticos
+*.log
+*.pid
+*.seed
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
